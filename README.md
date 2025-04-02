@@ -1,11 +1,10 @@
 # Autoclicka
 
 autoclicker.py is a python3 script which uses tkinter and pynput to create a minimalist customizable rapid automatic clicking application (i.e. autoclicker).  
-<br/>
 
 *Note: This can be run on Linux however running on Windows requires the least steps. These instructions are tailored for Windows.*
 
-## Instructions:
+### Instructions:
 
 1. **First acquire dependencies 'tkinter' and 'pynput':**  
 

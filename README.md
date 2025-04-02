@@ -27,4 +27,4 @@ autoclicker.py is a python3 script which uses tkinter and pynput to create a min
      ```
 
 ### Output:
-A graphical user interface should appear with 5 buttons, adjusting the click speed and the activation duration. The Start button should activate automatic clicking after a short delay.
+A graphical user interface appears with 5 buttons, which adjust the click speed and the activation duration. The Start button activates automatic clicking after a short delay.
